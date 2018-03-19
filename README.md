@@ -1,0 +1,2 @@
+# Demo-project-to-use-Precompiled-views-from-library-project-in-.net-core-2.0
+I'm uploading a project and a library with embedded views to .NET Core 2.0.0.you can easily use compiled views of library project by simply adding its dll file in reference of the project in which you want to add this views. I've simplified the csproj files down to their bare bones. I simply used by making few change in ConfigureServices of startup class of project and .csproj of LibraryProject
